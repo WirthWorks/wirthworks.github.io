@@ -1,4 +1,4 @@
-wirthworks.github.io
+Wirth Works Webdesign Blog
 ====================
 
-Wirth Works Github IO Page
+Wirth Works Webdesign Blog
